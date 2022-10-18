@@ -80,5 +80,8 @@ The New user registration into the blockchain is implemented here:
 https://user-images.githubusercontent.com/85601898/196415032-d6239eb6-c41e-454e-b55c-1efaac11e3db.mp4
 
 
+# Presentation
+[Land management system- Blockchain Technology.pptx](https://github.com/SgMahawar/Land_Management_System/files/9813486/Land.management.system-.Blockchain.Technology.pptx)
+
 
 
