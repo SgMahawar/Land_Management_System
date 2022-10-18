@@ -53,21 +53,6 @@ $ npm install --save prompts
 
 
 
-
-# Screenshots
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Demo
 Please find the implementation videos for this project here:
 
